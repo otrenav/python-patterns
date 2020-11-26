@@ -7,12 +7,6 @@
 
 This repository was forked from https://github.com/faif/python-patterns by Omar Trejo.
 
-It contains various Python patterns that should be adapted for your specific needs.
-
-Pull requests with improvements or more patterns are welcome.
-
-Any feedback is welcome!
-
 ---
 
 When an implementation is added or modified, be sure to update this file and
