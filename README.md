@@ -24,7 +24,7 @@ Current Patterns:
 ## Creational Patterns
 
 | Pattern | Description |
-|:-------:| ----------- |
+|---------| ----------- |
 | [abstract_factory](abstract_factory.py) | use a generic function with specific factories |
 | [borg](borg.py) | a singleton with shared-state among instances |
 | [builder](builder.py) | builder object receives parameters and returns constructed objects |
@@ -36,7 +36,7 @@ Current Patterns:
 ## Structural Patterns
 
 | Pattern | Description |
-|:-------:| ----------- |
+|---------| ----------- |
 | [3-tier](3-tier.py) | data<->business logic<->presentation separation (strict relationships) |
 | [adapter](adapter.py) | adapt one interface to another using a white-list |
 | [bridge](bridge.py) | a client-provider middleman to soften interface changes |
@@ -51,7 +51,7 @@ Current Patterns:
 ## Behavioral Patterns
 
 | Pattern | Description |
-|:-------:| ----------- |
+|---------| ----------- |
 | [chain](chain.py) | apply a chain of successive handlers to try and process the data |
 | [catalog](catalog.py) | general methods will call different specialized methods based on construction parameter |
 | [chaining_method](chaining_method.py) | continue callback next object method |
@@ -70,7 +70,7 @@ Current Patterns:
 ## Others
 
 | Pattern | Description |
-|:-------:| ----------- |
+|---------| ----------- |
 | [graph_search](graph_search.py) | (graphing algorithms, not design patterns) |
 
 ---
