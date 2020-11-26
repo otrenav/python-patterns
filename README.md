@@ -5,7 +5,7 @@
 
 # Python patterns
 
-This repository was forked from https://github.com/faif/python-patterns by [Omar Trejo](http://links.datata.mx/omar-trejo-linkedin).
+This repository was forked from https://github.com/faif/python-patterns by Omar Trejo.
 
 It contains various Python patterns that should be adapted for your specific needs.
 
